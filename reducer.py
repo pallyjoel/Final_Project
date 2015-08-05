@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import logging
 import csv, sys
 
@@ -29,4 +28,3 @@ with open("output.csv", 'w') as master_file:
 		days += 1
 	if old_key != None:
 		master_file.write( '{0},{1}\n'.format(old_key, float(entries)/days))
-

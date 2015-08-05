@@ -1,0 +1,7 @@
+parameter,S.W score,P-value, Normal_Distribution
+meandewpti,0.955028,0.230030,'yes'
+meanpressurei,0.961932,0.346753,'yes'
+meanwindspdi,0.882039,0.003141,'No'
+meantempi,0.909773,0.014685,'No'
+precipi,0.459768,0.000000,'No'
+ENTRIESn_hourly,0.748794,0.000009,'No'

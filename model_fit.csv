@@ -1,0 +1,4 @@
+feature_set, R^2
+just_day, 0.886733
+just_wind, 0.248237
+day_windspd, 0.903450
